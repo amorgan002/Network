@@ -1,4 +1,4 @@
-Reference_ClockRate_C,Sampling Threshold,Max Clock Drift,Max Packet Size Rm
+ReferenceClockRate,Sampling Threshold,Max Clock Drift,Max Packet Size Rm
 1,0.1,0.0001,134
 1,0.1,0.0002,94
 1,0.1,0.0003,77
